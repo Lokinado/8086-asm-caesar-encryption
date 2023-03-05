@@ -41,7 +41,6 @@ nasm -o source.com -f bin source.asm
 3. Run source.com application.
 
 <br>
-https://raw.githubusercontent.com/Lokinado/8086-asm-caesar-encryption/main/Images/Img1.png
 # Usage
 The UI is self explainatory. Every single operation is explained on the menu of the application.
 
