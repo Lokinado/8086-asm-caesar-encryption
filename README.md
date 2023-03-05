@@ -41,11 +41,11 @@ nasm -o source.com -f bin source.asm
 3. Run source.com application.
 
 <br>
-
+https://raw.githubusercontent.com/Lokinado/8086-asm-caesar-encryption/main/Images/Img1.png
 # Usage
 The UI is self explainatory. Every single operation is explained on the menu of the application.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+![Image of application interface](https://raw.githubusercontent.com/Lokinado/8086-asm-caesar-encryption/main/Images/Img1.png "Interface!")
 
 User is expected to input a number of operation and then afterwards input the operation argument.
 
