@@ -1,3 +1,22 @@
+<!--
++++
+author = "Krzysztof Borowski"
+title = "8086 ASM Caesar Encryption"
+date = "2023-03-06"
+description = "8086 ASM project that aims to provide encrypt functionality using caesar encryption."
+summary = "8086 ASM project that aims to provide encrypt functionality using caesar encryption."
+#draft="true"
+tags = [
+    "asm", 
+    "computer architecture",
+]
+categories = [
+    "assignments",
+]
++++
+-->
+
+
 <p align="center">
     <h1 align="center" style="border-bottom: none; margin-bottom: 0">
         <strong>
