@@ -5,7 +5,7 @@ title = "8086 ASM Caesar Encryption"
 date = "2023-03-06"
 description = "8086 ASM project that aims to provide encrypt functionality using caesar encryption."
 summary = "8086 ASM project that aims to provide encrypt functionality using caesar encryption."
-#draft="true"
+draft="false"
 tags = [
     "asm", 
     "computer architecture",
