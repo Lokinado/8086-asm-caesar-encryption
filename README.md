@@ -16,6 +16,9 @@ categories = [
 +++
 -->
 
+![GitHub](https://img.shields.io/github/license/Lokinado/8086-asm-caesar-encryption?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/Lokinado/8086-asm-caesar-encryption?style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/Lokinado/8086-asm-caesar-encryption?style=for-the-badge)
 
 <p align="center">
     <h1 align="center" style="border-bottom: none; margin-bottom: 0">
